@@ -1,0 +1,1 @@
+# sdorica-model-char
